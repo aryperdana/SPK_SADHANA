@@ -1,7 +1,7 @@
 import Axios from "axios";
 
 const Services = Axios.create({
-  baseURL: "http://localhost:8000/api",
+  baseURL: "http://192.168.18.43:8000/api",
 });
 
 // Services.interceptors.request.use((config) => {

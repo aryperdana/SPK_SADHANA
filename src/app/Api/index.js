@@ -1,3 +1,3 @@
-import { JabatanApi, KaryawanApi } from "./Master";
+import { JabatanApi, KaryawanApi, KriteriaApi } from "./Master";
 
-export { JabatanApi, KaryawanApi };
+export { JabatanApi, KaryawanApi, KriteriaApi };
